@@ -1,0 +1,18 @@
+{
+  "fast": {
+    "fitted_lambda": 0.011166,
+    "fitted_half_life_hours": 62.08,
+    "sample_count": 366
+  },
+  "slow": {
+    "fitted_lambda": 0.005228,
+    "fitted_half_life_hours": 132.59,
+    "sample_count": 81
+  },
+  "static": {
+    "fitted_lambda": 0.0,
+    "fitted_half_life_hours": "inf",
+    "sample_count": 3183,
+    "raw_mle_lambda": 0.007184
+  }
+}
