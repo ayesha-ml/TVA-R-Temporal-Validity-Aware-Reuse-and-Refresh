@@ -69,10 +69,17 @@ Evaluated on a 150-sample stratified evaluation set (50 FAST, 50 SLOW, 50 STATIC
 
 ## Visualizations and Figures
 
-1. figures/volatility_tier_breakdown.png: Side-by-side bar plots showing routing accuracy and tool call savings across volatility tiers.
-2. figures/pareto_frontier.png: Overall Accuracy vs. Tool Call Reduction trade-off plot.
+### 1. Volatility Tier Breakdown
 
----
+This figure compares routing accuracy and tool call savings across different volatility tiers.
+
+![Volatility Tier Breakdown](figures/volatility_tier_breakdown.png)
+
+### 2. Pareto Frontier
+
+This figure shows the trade-off between overall accuracy and tool call reduction.
+
+![Pareto Frontier](figures/pareto_frontier.png)
 
 ---
 
