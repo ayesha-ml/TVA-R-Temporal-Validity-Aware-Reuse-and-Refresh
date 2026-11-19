@@ -1,0 +1,26 @@
+# credentials and local settings
+.env
+.env.*
+!.env.example
+secrets.json
+*.pem
+*.key
+
+# generated database and experiment artifacts
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+models/
+results/
+figures/
+data/processed_risk_routing/
+data/splits_risk_routing/
+
+# python and notebook temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# local virtual environments
+.venv/
+venv/\n
