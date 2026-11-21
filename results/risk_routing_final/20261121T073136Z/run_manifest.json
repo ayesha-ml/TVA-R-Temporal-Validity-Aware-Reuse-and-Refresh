@@ -1,0 +1,37 @@
+{
+  "run_id": "20261121T073136Z",
+  "repository": "https://github.com/ayesha-ml/TVA-R-Temporal-Validity-Aware-Reuse-and-Refresh.git",
+  "branch": "research/risk-controlled-routing",
+  "drive_run_folder": "/content/drive/MyDrive/TVA-R-Temporal-Tool-Routing/runs/20261121T073136Z",
+  "artifacts": {
+    "results/risk_routing_final/20261121T073136Z": [
+      "any_as_reuse_sensitivity.csv",
+      "baseline_test_results.csv",
+      "crc_calibration_diagnostics.csv",
+      "crc_test_results.csv",
+      "crc_thresholds.json",
+      "experiment_summary.json",
+      "heldout_test_scores.csv",
+      "meta_scenario_bootstrap_intervals.csv",
+      "results_audit.md",
+      "test_risk_refresh_frontier.csv"
+    ],
+    "models/risk_routing_final/20261121T073136Z": [
+      "checkpoint_metadata.json",
+      "text_only.joblib",
+      "text_plus_time.joblib",
+      "time_only.joblib"
+    ],
+    "data/splits_risk_routing_final/20261121T073136Z": [
+      "row_level_split_assignments.csv",
+      "split_assignments.csv",
+      "split_metadata.json"
+    ],
+    "figures/risk_routing_final/20261121T073136Z": [
+      "calibration_curve_text_only.png",
+      "calibration_curve_text_plus_time.png",
+      "calibration_curve_time_only.png",
+      "test_risk_refresh_frontier.png"
+    ]
+  }
+}
